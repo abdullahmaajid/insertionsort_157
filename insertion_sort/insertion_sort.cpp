@@ -51,5 +51,7 @@ void insertionsort() {	// Procedure Insertionsort
 		arr[j + 1] = temp;			// 5. simpan nilai temp ke dalam arr [j+1]
 
 		cout << "\nPass " << i << ": "; // Output ke layar
+		for (int k = 0; k < n; k++) {	// Looping nilai k dimulai dari 0 hingga n-1
+
 }
 
