@@ -58,5 +58,8 @@ void insertionsort() {	// Procedure Insertionsort
 }
 
 void display() {						// Procedure Display
-
+	cout << endl;						// Output baris kosong
+	cout << "\n===============================" << endl;	// Output ke layar
+	cout << "Element Array yang telah tersusun" << endl		// Output ke layar
+	cout << "=================================" << endl;	// Output ke layar
 }
